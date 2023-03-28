@@ -7,9 +7,7 @@ This project was made by learning purpose only, following tutorial [The Complete
 
 This is my learning JavaScript basic project.
 
-Web page published at: [sgrazys.github.io/04-coming-soon/](sgrazys.github.io/04-coming-soon/)
-
-Design: [COMING SOON](./img/design.png)
+Web page published at: [https://sgrazys.github.io/Guess-My-Number/](https://sgrazys.github.io/Guess-My-Number/)
 
 ## 🎯 Project features/goals
 
@@ -37,7 +35,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/sgrazys/04-coming-soon.git
+    git clone https://github.com/sgrazys/Guess-My-Number.git
     ```
 2. Install NPM packages
     ```
