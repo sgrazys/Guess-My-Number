@@ -1,7 +1,6 @@
-# Guess-My-Number
+# Pig Game
 
 This project was made by learning purpose only, following tutorial [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
-
 
 ## 🌟 About
 
@@ -11,7 +10,7 @@ Web page published at: [https://sgrazys.github.io/Guess-My-Number/](https://sgra
 
 ## 🎯 Project features/goals
 
-- DOM manipulation 
+- DOM manipulation
 
 ## 🧰 Getting Started
 
@@ -34,21 +33,21 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
-    ```sh
-    git clone https://github.com/sgrazys/Guess-My-Number.git
-    ```
+   ```sh
+   git clone https://github.com/sgrazys/Guess-My-Number.git
+   ```
 2. Install NPM packages
-    ```
-    npm i
-    ```
-    or
-    ```
-    npm install
-    ```
+   ```
+   npm i
+   ```
+   or
+   ```
+   npm install
+   ```
 3. Run the server
-    ```
-    npm run dev
-    ```
+   ```
+   npm run dev
+   ```
 
 ### 🧪 Running tests
 
@@ -60,8 +59,8 @@ Saulius: [Github](https://github.com/sgrazys)
 
 ## 🔗 Other resources
 
-
 ## 📫 Reach me
+
 - [LinkedIn](https://www.linkedin.com/in/saulius-grazys/)
 
 - [Mail](mailto:s.grazys@gmail.com)
